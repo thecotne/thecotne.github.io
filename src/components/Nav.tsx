@@ -36,7 +36,7 @@ export function Nav() {
         </nav>
         <a
           className="nav-cta"
-          href="https://www.toptal.com/resume/tsotne-nazarashvili"
+          href="/Tsotne_Nazarashvili_Resume.pdf"
           target="_blank"
           rel="noopener"
         >
